@@ -5,6 +5,12 @@ Esto son pruebas simples para poner implementar Get y Post en unity, no hay nada
 
 El Get es un codigo para generar pokemons aleatorios gracias a una api que ya existe, llamada https://pokeapi.co
 
+NOTA: El codigo de Pokemon no me pertenece, es del canal de Youtube Turbo Makes Games
+
+Video: https://www.youtube.com/watch?v=GIxu8kA9EBU
+
+
+
 El Post, pese a que tambien hay un codigo que tiene el funcionamiento basico, no esta probado su funcionalidad, pero utilizo https://reqres.in/
 Que es una Api creada para hacer pruebas en general
 
