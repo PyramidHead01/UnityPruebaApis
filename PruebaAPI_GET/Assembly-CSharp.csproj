@@ -58,6 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Get.cs" />
     <Compile Include="Assets\Scripts\SimpleJSON.cs" />
+    <Compile Include="Assets\Scripts\Post.cs" />
+    <Compile Include="Assets\Scripts\MiPost\Usuario.cs" />
+    <Compile Include="Assets\Scripts\MiPost\MiPost.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
